@@ -1,0 +1,34 @@
+[
+    {
+      "model": "my_app.User",
+      "pk": 1,
+      "fields": {
+        "username": "Araali Farooq",
+        "password": "araali"
+      }
+    },
+    {
+      "model": "my_app.TodoList",
+      "pk": 1,
+      "fields": {
+        "title": "Araali Farooq",
+        "user": 1
+      }
+    },
+    {
+      "model": "my_app.TodoItem",
+      "pk": 1,
+      "fields": {
+        "item_name": "go shopping",
+        "todo_list": 1
+      }
+    },
+    {
+      "model": "my_app.TodoItem",
+      "pk": 2,
+      "fields": {
+        "item_name": "Watch a movie",
+        "todo_list": 1
+      }
+    }
+  ]
