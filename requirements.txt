@@ -100,7 +100,7 @@ PyYAML==4.2b1
 readtime==1.0.6
 requests==2.21.0
 requests-oauthlib==1.0.0
-rsa==4.0
+rsa==4.7
 ruamel.yaml==0.15.86
 Rx==1.6.1
 simplejson==3.16.0
