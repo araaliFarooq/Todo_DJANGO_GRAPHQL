@@ -1,5 +1,5 @@
 aniso8601==7.0.0
-arrow==0.13.0
+arrow==0.15.1
 asn1crypto==0.24.0
 astroid==2.1.0
 autopep8==1.5
